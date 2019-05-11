@@ -1,0 +1,5 @@
+Chemical formula     ms%    mol%  Sigma       Net   K ratio Line
+C         20.70   31.17   0.08      7078 0.0017411 K  
+O         48.64   54.99   0.42     10756 0.0089849 K  
+Ca        30.66   13.84   0.16     68797 0.0324099 K  
+Total    100.00  100.00
